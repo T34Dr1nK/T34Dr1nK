@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm T34Dr1nK 👋</h1>
+  <h1>Hi, I'm T34Dr1nK &#128030;</h1>
   <p><strong>Full-stack Web Developer | AI Developer | Computer Engineering Student</strong></p>
 
   <p>
@@ -10,44 +10,36 @@
 
 ---
 
-### 💻 About Me
-- 🎓 **Education:** 3rd Year Computer Engineering at KMITL (PCC)
-- 🤖 **Interests:** Generative AI, LLM Fine-tuning (Ollama/LoRA), and Human-like AI Systems
-- 🛠️ **Current Project:** Building a custom AI-generated mechanical keyboard keycap platform
-- 🐧 **OS:** Proud Linux user (Minimal GUI, Terminal lover)
+### &#128187; About Me
+- &#127891; **Education:** 3rd Year Computer Engineering at KMITL (PCC)
+- &#129302; **Interests:** Generative AI, LLM Fine-tuning, and Human-like AI Systems
+- &#128270; **Focus:** Custom AI-generated mechanical keyboard keycap visualizations
+- &#128423; **OS:** Linux Enthusiast (Terminal-centric workflow)
 
-### 🛠️ Languages and Tools
+---
 
-#### **Frontend & Design**
+### &#128119; Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,figma" />
-</p>
-
-#### **Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,redis,firebase" />
-</p>
-
-#### **AI & Data Science**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv" />
-</p>
-
-#### **Infrastructure & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,git,arduino,postman" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,figma,nodejs,express,python,mongodb,mysql,postgres,redis,firebase,pytorch,tensorflow,linux,docker,aws,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### &#128197; 3D Contribution Calendar
+<!-- ไฟล์นี้จะถูกสร้างโดย GitHub Action ที่เราตั้งค่าไว้ด้านบน -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T34Dr1nK&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T34Dr1nK&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github.com/T34Dr1nK/T34Dr1nK/blob/master/github-contribution-grid-snake.svg" alt="3D Calendar" onerror="this.src='https://github.com/T34Dr1nK/metrics/raw/master/github-metrics.svg'"/>
 </div>
 
 ---
 
+### &#128202; GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T34Dr1nK&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </p>

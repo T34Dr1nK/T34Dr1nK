@@ -20,8 +20,24 @@
 
 ### &#128119; Languages and Tools
 
+#### **Frontend & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,figma,nodejs,express,python,mongodb,mysql,postgres,redis,firebase,pytorch,tensorflow,linux,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,figma" />
+</p>
+
+#### **Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres,redis,firebase" />
+</p>
+
+#### **AI & Data Science**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv" />
+</p>
+
+#### **Infrastructure & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,git,arduino,postman" />
 </p>
 
 ---

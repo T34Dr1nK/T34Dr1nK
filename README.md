@@ -29,7 +29,7 @@
 ### &#128197; 3D Contribution Calendar
 <!-- ไฟล์นี้จะถูกสร้างโดย GitHub Action ที่เราตั้งค่าไว้ด้านบน -->
 <div align="center">
-  <img src="https://github.com/T34Dr1nK/T34Dr1nK/blob/master/github-contribution-grid-snake.svg" alt="3D Calendar" onerror="this.src='https://github.com/T34Dr1nK/metrics/raw/master/github-metrics.svg'"/>
+  <img src="https://github.com/T34Dr1nK/T34Dr1nK/raw/main/github-metrics.svg" alt="3D Calendar" />
 </div>
 
 ---
